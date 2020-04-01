@@ -1,2 +1,2 @@
 # responsive--acccordian
-accordian for mobile device
+accordian for mobile device.
